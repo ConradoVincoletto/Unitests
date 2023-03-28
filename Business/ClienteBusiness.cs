@@ -11,7 +11,7 @@ namespace Business
     {
         public int CalcularIdade(ClienteDTO clienteDTO)
         {
-            return 0;
+            return DateTime.Now.Year - clienteDTO.DataNascimento.Year;
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\conra\OneDrive\Documentos\Repositórios\Unitest\DTOs\bin\Debug\DTOs.dll
+C:\Users\conra\OneDrive\Documentos\Repositórios\Unitest\DTOs\bin\Debug\DTOs.pdb
+C:\Users\conra\OneDrive\Documentos\Repositórios\Unitest\DTOs\obj\Debug\DTOs.csproj.AssemblyReference.cache
+C:\Users\conra\OneDrive\Documentos\Repositórios\Unitest\DTOs\obj\Debug\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\conra\OneDrive\Documentos\Repositórios\Unitest\DTOs\obj\Debug\DTOs.dll
+C:\Users\conra\OneDrive\Documentos\Repositórios\Unitest\DTOs\obj\Debug\DTOs.pdb
